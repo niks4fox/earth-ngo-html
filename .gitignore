@@ -1,0 +1,6 @@
+node_modules/
+dist/script.js.map
+dist/style.css.map
+app/
+*.json
+*.js
