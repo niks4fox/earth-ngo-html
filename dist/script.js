@@ -1,0 +1,2 @@
+"use strict";$((function(){$(".testSlider").length>0&&$(".testSlider").slick({infinite:!0,slidesToShow:3,slidesToScroll:1,centerMode:!0,centerPadding:"60px",arrows:!1,autoplaySpeed:2e3,speed:500,responsive:[{breakpoint:1300,settings:{slidesToShow:3,centerMode:!1}},{breakpoint:700,settings:{slidesToShow:1,arrows:!1,centerMode:!1}}]})}));
+//# sourceMappingURL=script.js.map
