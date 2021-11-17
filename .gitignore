@@ -4,3 +4,4 @@ dist/style.css.map
 app/
 *.json
 gulpfile.js
+*.vscode
